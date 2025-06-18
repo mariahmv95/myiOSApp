@@ -29,22 +29,9 @@
 		90E972482DB1D8CD0085FD7E /* BuildMyPhysiqueUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuildMyPhysiqueUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		90E972502DB1D8CD0085FD7E /* Exceptions for "BuildMyPhysique" folder in "BuildMyPhysique" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 90E972262DB1D8CD0085FD7E /* BuildMyPhysique */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		90E972292DB1D8CD0085FD7E /* BuildMyPhysique */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				90E972502DB1D8CD0085FD7E /* Exceptions for "BuildMyPhysique" folder in "BuildMyPhysique" target */,
-			);
 			path = BuildMyPhysique;
 			sourceTree = "<group>";
 		};
